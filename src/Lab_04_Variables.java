@@ -1,4 +1,4 @@
-public class Variables {
+public class Lab_04_Variables {
     public static void main(String[] args) {
         //integer variables
         int intOperandA = 1;

@@ -1,4 +1,4 @@
-public class VariableNameAssignment {
+public class Lab_04_VariableNameAssignment {
     public static void main(String[] args) {
         int numOfKidsInFamily = 2;
         boolean isRaining = true;

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab04_Variables/Lab04_Variables.iml" filepath="$PROJECT_DIR$/Lab04_Variables/Lab04_Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_04_01_SalesTax/Lab_04_01_SalesTax.iml" filepath="$PROJECT_DIR$/Lab_04_01_SalesTax/Lab_04_01_SalesTax.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seth_Deven_Lab04.iml" filepath="$PROJECT_DIR$/Seth_Deven_Lab04.iml" />
     </modules>

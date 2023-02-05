@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e288b78-bee6-47bb-b8f9-63b62b1dd6d6" name="Changes" comment="variable name assignment">
+      <change afterPath="$PROJECT_DIR$/Lab04_Variables/Lab04_Variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_04_01_SalesTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_04_02_YearlyMaintenanceCost.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seth_Deven_Lab04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seth_Deven_Lab04_Variables.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab04_Variables/src/VariableNameAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_04_VariableNameAssignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab04_Variables/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_04_Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +32,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LF7d5CoWD6jMhKkuhCQTGIEN6P" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -43,12 +50,26 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
+  <component name="RunManager" selected="Application.Lab_04_02_YearlyMaintenanceCost">
+    <configuration name="Lab_04_01_SalesTax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_04_01_SalesTax" />
+      <module name="Seth_Deven_Lab04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_04_02_YearlyMaintenanceCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_04_02_YearlyMaintenanceCost" />
+      <module name="Seth_Deven_Lab04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_04_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_04_Variables" />
       <module name="Seth_Deven_Lab04" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,7 +90,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Variables" />
+        <item itemvalue="Application.Lab_04_02_YearlyMaintenanceCost" />
+        <item itemvalue="Application.Lab_04_01_SalesTax" />
+        <item itemvalue="Application.Lab_04_Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675610357910</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="variable name assignment">
+      <created>1675610932335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675610932335</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +148,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Project Init" />
     <MESSAGE value="variable name assignment" />
     <option name="LAST_COMMIT_MESSAGE" value="variable name assignment" />
