@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e288b78-bee6-47bb-b8f9-63b62b1dd6d6" name="Changes" comment="variable name assignment">
-      <change afterPath="$PROJECT_DIR$/src/Lab_04_03_MonthlyCCBalance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_04_03_MonthlyCCBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_04_03_MonthlyCCBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_04_VariableNameAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_04_VariableNameAssignment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_04_04_EvenOdd">
+  <component name="RunManager" selected="Application.Lab_04_03_MonthlyCCBalance">
     <configuration name="Lab_04_01_SalesTax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_04_01_SalesTax" />
       <module name="Seth_Deven_Lab04" />
@@ -70,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_04_04_EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_04_04_EvenOdd" />
+    <configuration name="Lab_04_VariableNameAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_04_VariableNameAssignment" />
       <module name="Seth_Deven_Lab04" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_04_04_EvenOdd" />
         <item itemvalue="Application.Lab_04_03_MonthlyCCBalance" />
+        <item itemvalue="Application.Lab_04_Variables" />
+        <item itemvalue="Application.Lab_04_VariableNameAssignment" />
         <item itemvalue="Application.Lab_04_01_SalesTax" />
         <item itemvalue="Application.Lab_04_02_YearlyMaintenanceCost" />
-        <item itemvalue="Application.Lab_04_Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675614064689</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="variable name assignment">
+      <created>1675615537703</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675615537703</updated>
+    </task>
+    <task id="LOCAL-00007" summary="variable name assignment">
+      <created>1675615961101</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675615961101</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

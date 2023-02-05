@@ -9,11 +9,11 @@ public class Lab_04_02_YearlyMaintenanceCost {
         double fallCost = 15;
         double yearlyCost = winterCost + springCost + summerCost + fallCost;
         //Output
-        System.out.println("The Winter Maintenance cost is $" + winterCost);
-        System.out.println("The Spring Maintenance cost is $" + springCost);
-        System.out.println("The Summer Maintenance cost is $" + summerCost);
-        System.out.println("The Fall Maintenance cost is $" + fallCost);
-        System.out.println("The total Yearly cost for maintenance is $" + yearlyCost);
+        System.out.println("The Winter Maintenance cost is $" + winterCost);// Prints cost in winter
+        System.out.println("The Spring Maintenance cost is $" + springCost);// Prints cost in spring
+        System.out.println("The Summer Maintenance cost is $" + summerCost);// Prints cost in summer
+        System.out.println("The Fall Maintenance cost is $" + fallCost);// Prints cost in fall
+        System.out.println("The total Yearly cost for maintenance is $" + yearlyCost);//Prints total yearly cost
 
 
     }
