@@ -48,7 +48,7 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_04_03_MonthlyCCBalance">
+  <component name="RunManager" selected="Application.Lab_04_04_EvenOdd">
     <configuration name="Lab_04_01_SalesTax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_04_01_SalesTax" />
       <module name="Seth_Deven_Lab04" />
@@ -65,6 +65,13 @@
     </configuration>
     <configuration name="Lab_04_03_MonthlyCCBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_04_03_MonthlyCCBalance" />
+      <module name="Seth_Deven_Lab04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_04_04_EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_04_04_EvenOdd" />
       <module name="Seth_Deven_Lab04" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_04_04_EvenOdd" />
         <item itemvalue="Application.Lab_04_03_MonthlyCCBalance" />
         <item itemvalue="Application.Lab_04_01_SalesTax" />
         <item itemvalue="Application.Lab_04_02_YearlyMaintenanceCost" />
